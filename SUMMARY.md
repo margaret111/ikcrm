@@ -208,6 +208,7 @@
     * [关联CRM客户](chapter1/feng-xian-xin-xi-ding-yue/guan-lian-crm-ke-hu.md)
     * [账单记录](chapter1/feng-xian-xin-xi-ding-yue/xi-tong-she-zhi.md)
     * [付费方式](chapter1/feng-xian-xin-xi-ding-yue/fu-fei-fang-shi.md)
+    * [订阅规则](chapter1/feng-xian-xin-xi-ding-yue/ding-yue-gui-ze.md)
   * [业绩提成](chapter1/ye-ji-ti-cheng.md)
   * [知识库](chapter1/zhi-shi-ku.md)
   * [工作台](chapter1/gong-zuo-tai.md)
