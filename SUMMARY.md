@@ -226,7 +226,7 @@
   * [任务](chapter1/ti-xing.md)
     * [新建任务](chapter1/ti-xing/ren-wu.md)
     * [编辑任务](chapter1/ti-xing/ti-xing.md)
-    * 删除任务
+    * [删除任务](chapter1/ti-xing/shan-chu-ren-wu.md)
     * 设置已完成
     * 设置未完成
   * [附件](chapter1/fu-jian.md)
