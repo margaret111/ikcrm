@@ -199,6 +199,15 @@
     * [开启工商查询](chapter1/gong-shang-cha-xun/1.md)
     * [使用方法](chapter1/gong-shang-cha-xun/shi-yong-fang-fa.md)
   * [风险信息订阅](chapter1/feng-xian-xin-xi-ding-yue.md)
+    * [开通应用](chapter1/feng-xian-xin-xi-ding-yue/kai-tong-ying-yong.md)
+    * 订阅
+    * 查看风险信息
+    * 添加为客户
+    * 编辑订阅人
+    * 取消订阅
+    * 关联CRM客户
+    * 系统设置
+    * 付费方式
   * [业绩提成](chapter1/ye-ji-ti-cheng.md)
   * [知识库](chapter1/zhi-shi-ku.md)
   * [工作台](chapter1/gong-zuo-tai.md)
