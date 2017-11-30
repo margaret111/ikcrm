@@ -229,8 +229,8 @@
     * [删除任务](chapter1/ti-xing/shan-chu-ren-wu.md)
     * [设置已完成](chapter1/ti-xing/she-zhi-yi-wan-cheng.md)
     * [设置未完成](chapter1/ti-xing/she-zhi-wei-wan-cheng.md)
-    * 任务通知
-    * 过期任务
+    * [过期任务](chapter1/ti-xing/guo-qi-ren-wu.md)
+    * [任务通知](chapter1/ti-xing/ren-wu-tong-zhi.md)
   * [附件](chapter1/fu-jian.md)
   * [快捷编辑](chapter1/kuai-jie-bian-ji.md)
   * [日志查询](chapter1/cao-zuo-ri-zhi.md)
