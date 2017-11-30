@@ -203,7 +203,7 @@
     * [订阅](chapter1/feng-xian-xin-xi-ding-yue/ding-yue.md)
     * [查看风险信息](chapter1/feng-xian-xin-xi-ding-yue/cha-kan-feng-xian-xin-xi.md)
     * [添加为客户](chapter1/feng-xian-xin-xi-ding-yue/tian-jia-wei-ke-hu.md)
-    * 编辑订阅人
+    * [编辑订阅人](chapter1/feng-xian-xin-xi-ding-yue/bian-ji-ding-yue-ren.md)
     * 取消订阅
     * 关联CRM客户
     * 系统设置
