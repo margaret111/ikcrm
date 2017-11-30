@@ -172,8 +172,8 @@
     * 评论跟进记录
     * 回复评论
   * [业绩目标](chapter1/ye-ji-mu-biao.md)
-    * 设置业绩目标
-    * 查看业绩目标完成情况
+    * [设置业绩目标](chapter1/ye-ji-mu-biao/she-zhi-ye-ji-mu-biao.md)
+    * [查看业绩目标完成情况](chapter1/ye-ji-mu-biao/cha-kan-ye-ji-mu-biao-wan-cheng-qing-kuang.md)
   * [费用报销](chapter1/fei-yong-bao-xiao.md)
     * 新增费用
     * 新增报销单
