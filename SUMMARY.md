@@ -223,6 +223,9 @@
     * [公告栏](chapter1/gong-zuo-tai/gong-gao-lan.md)
     * [自定义工作台](chapter1/gong-zuo-tai/zi-ding-yi-gong-zuo-tai.md)
   * [通知中心](chapter1/tong-zhi-zhong-xin.md)
+    * [系统通知](chapter1/tong-zhi-zhong-xin/xi-tong-tong-zhi.md)
+    * [全部标记为已读](chapter1/tong-zhi-zhong-xin/quan-bu-biao-ji-wei-yi-du.md)
+    * 清除所有
   * [任务](chapter1/ti-xing.md)
     * [新建任务](chapter1/ti-xing/ren-wu.md)
     * [编辑任务](chapter1/ti-xing/ti-xing.md)
