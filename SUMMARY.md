@@ -196,8 +196,10 @@
     * 下载录音
     * 批量拨号
   * [工商查询](chapter1/gong-shang-cha-xun.md)
+    * [开启工商查询](chapter1/gong-shang-cha-xun/1.md)
+    * [使用方法](chapter1/gong-shang-cha-xun/shi-yong-fang-fa.md)
   * [风险信息订阅](chapter1/feng-xian-xin-xi-ding-yue.md)
-  * 业绩提成
+  * [业绩提成](chapter1/ye-ji-ti-cheng.md)
   * [知识库](chapter1/zhi-shi-ku.md)
   * [工作台](chapter1/gong-zuo-tai.md)
   * 通知中心
