@@ -211,6 +211,7 @@
     * [销售助手](chapter1/gong-zuo-tai/xiao-shou-zhu-shou.md)
     * [写报告](chapter1/gong-zuo-tai/xie-bao-gao.md)
     * [公告栏](chapter1/gong-zuo-tai/gong-gao-lan.md)
+    * [自定义工作台](chapter1/gong-zuo-tai/zi-ding-yi-gong-zuo-tai.md)
   * 通知中心
   * 提醒
   * 附件
