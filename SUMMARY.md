@@ -215,10 +215,8 @@
   * 通知中心
   * 提醒
   * 附件
-  * [日志查询](chapter1/cao-zuo-ri-zhi.md)
-    * [登录日志](chapter1/deng-lu-ri-zhi.md)
-    * [系统日志](chapter1/xi-tong-ri-zhi.md)
   * [快捷编辑](chapter1/kuai-jie-bian-ji.md)
+  * [日志查询](chapter1/cao-zuo-ri-zhi.md)
   * [自定义筛选](chapter1/zi-ding-yi-shai-xuan.md)
   * [自定义显示列](chapter1/zi-ding-yi-xian-shi-lie.md)
   * [搜索和查询](chapter1/sou-suo-he-cha-xun.md)
