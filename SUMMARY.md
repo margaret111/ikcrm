@@ -221,6 +221,7 @@
   * [自定义显示列](chapter1/zi-ding-yi-xian-shi-lie.md)
   * [搜索和查询](chapter1/sou-suo-he-cha-xun.md)
     * [全局搜索](chapter1/sou-suo-he-cha-xun/quan-ju-sou-suo.md)
+    * [查询](chapter1/sou-suo-he-cha-xun/cha-xun.md)
 * [系统设置](xi-tong-she-zhi.md)
   * [部门和用户](xi-tong-she-zhi/bu-men-he-yong-hu.md)
   * [角色和权限](xi-tong-she-zhi/jiao-se-he-quan-xian.md)
