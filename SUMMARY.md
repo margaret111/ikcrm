@@ -201,8 +201,8 @@
   * [风险信息订阅](chapter1/feng-xian-xin-xi-ding-yue.md)
     * [开通应用](chapter1/feng-xian-xin-xi-ding-yue/kai-tong-ying-yong.md)
     * [订阅](chapter1/feng-xian-xin-xi-ding-yue/ding-yue.md)
-    * 查看风险信息
-    * 添加为客户
+    * [查看风险信息](chapter1/feng-xian-xin-xi-ding-yue/cha-kan-feng-xian-xin-xi.md)
+    * [添加为客户](chapter1/feng-xian-xin-xi-ding-yue/tian-jia-wei-ke-hu.md)
     * 编辑订阅人
     * 取消订阅
     * 关联CRM客户
