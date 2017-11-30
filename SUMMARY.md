@@ -207,6 +207,7 @@
     * [业绩目标](chapter1/gong-zuo-tai/ye-ji-mu-biao.md)
     * [业绩排行](chapter1/gong-zuo-tai/ye-ji-pai-xing.md)
     * [销售漏斗](chapter1/gong-zuo-tai/xiao-shou-lou-dou.md)
+    * [任务](chapter1/gong-zuo-tai/ren-wu.md)
   * 通知中心
   * 提醒
   * 附件
