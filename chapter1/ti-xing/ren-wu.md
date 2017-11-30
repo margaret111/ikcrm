@@ -16,3 +16,7 @@
 
 ![](/assets/import33.png)
 
+可在“线索”，“客户”，“商机”，“合同”的详情页对该对象创建任务![](/assets/import333.png)![](/assets/import222.png)
+
+
+

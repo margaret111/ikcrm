@@ -225,7 +225,7 @@
   * [通知中心](chapter1/tong-zhi-zhong-xin.md)
   * [任务](chapter1/ti-xing.md)
     * [新建任务](chapter1/ti-xing/ren-wu.md)
-    * [修改任务](chapter1/ti-xing/ti-xing.md)
+    * [编辑任务](chapter1/ti-xing/ti-xing.md)
     * 删除任务
     * 设置已完成
     * 设置未完成
