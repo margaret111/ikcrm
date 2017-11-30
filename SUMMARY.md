@@ -202,6 +202,9 @@
   * [业绩提成](chapter1/ye-ji-ti-cheng.md)
   * [知识库](chapter1/zhi-shi-ku.md)
   * [工作台](chapter1/gong-zuo-tai.md)
+    * [销售简报](chapter1/gong-zuo-tai/xiao-shou-jian-bao.md)
+    * [审批中心](chapter1/gong-zuo-tai/shen-pi-zhong-xin.md)
+    * [业绩目标](chapter1/gong-zuo-tai/ye-ji-mu-biao.md)
   * 通知中心
   * 提醒
   * 附件
