@@ -209,7 +209,7 @@
     * [销售漏斗](chapter1/gong-zuo-tai/xiao-shou-lou-dou.md)
     * [任务](chapter1/gong-zuo-tai/ren-wu.md)
     * [销售助手](chapter1/gong-zuo-tai/xiao-shou-zhu-shou.md)
-    * 写报告
+    * [写报告](chapter1/gong-zuo-tai/xie-bao-gao.md)
   * 通知中心
   * 提醒
   * 附件
