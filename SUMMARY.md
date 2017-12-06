@@ -229,6 +229,7 @@
       * [客户公海相关](chapter1/tong-zhi-zhong-xin/xi-tong-tong-zhi/ke-hu-gong-hai-xiang-guan.md)
       * [操作通知](chapter1/tong-zhi-zhong-xin/xi-tong-tong-zhi/cao-zuo-tong-zhi.md)
       * [评论](chapter1/tong-zhi-zhong-xin/xi-tong-tong-zhi/ping-lun.md)
+      * [协作人通知](chapter1/tong-zhi-zhong-xin/xi-tong-tong-zhi/xie-zuo-ren-tong-zhi.md)
   * [任务](chapter1/ti-xing.md)
     * [新建任务](chapter1/ti-xing/ren-wu.md)
     * [编辑任务](chapter1/ti-xing/ti-xing.md)
