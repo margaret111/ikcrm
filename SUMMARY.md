@@ -225,7 +225,7 @@
   * [通知中心](chapter1/tong-zhi-zhong-xin.md)
     * [系统通知](chapter1/tong-zhi-zhong-xin/xi-tong-tong-zhi.md)
     * [全部标记为已读](chapter1/tong-zhi-zhong-xin/quan-bu-biao-ji-wei-yi-du.md)
-    * 清除所有
+    * [清除所有](chapter1/tong-zhi-zhong-xin/qing-chu-suo-you.md)
   * [任务](chapter1/ti-xing.md)
     * [新建任务](chapter1/ti-xing/ren-wu.md)
     * [编辑任务](chapter1/ti-xing/ti-xing.md)
